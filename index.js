@@ -39,3 +39,4 @@ app.get('/about',cors(),(req,res)=>{
     })
 })
 
+app.listen(3000);
